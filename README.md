@@ -11,7 +11,7 @@ This project is a replica of Telegram. It is a chat application that displays co
 
 Features:
 <ul>
-  <li><span style="text-weight: 600">Contact List:</span></li>
-  <li><span style="text-weight: 600">Contact List:</span></li>
-  <li><span style="text-weight: 600">Contact List:</span></li>
+  <li>Contact List: A list of contacts is displayed on the left side of the screen.</li>
+  <li>Chat Display for Laptop/Desktop: When a contact is clicked, the chat with that contact is shown on the right side.</li>
+  <li>Chat Display for Tablet/Mobile: When a contact is clicked, it navigates to another page where all chat history with that contact is displayed.</li>
 </ul>
