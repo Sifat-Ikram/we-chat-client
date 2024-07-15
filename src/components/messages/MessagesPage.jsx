@@ -118,7 +118,7 @@ const MessagesPage = () => {
               <div className="chat-bubble">{message.message}</div>
             </div>
             <div className="chat chat-end mt-2">
-              <div className="chat-bubble">You underestimate my power!</div>
+              <div className="chat-bubble">Hello!</div>
             </div>
           </div>
         ))}

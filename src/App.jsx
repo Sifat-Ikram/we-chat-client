@@ -80,12 +80,13 @@ const App = () => {
                 <Outlet />
               </div>
             ) : (
-              <div className="w-full min-h-screen flex items-center relative justify-center"
-              style={{
-                backgroundImage: `url(${background})`,
-                backgroundSize: "cover",
-                backgroundPosition: "center",
-              }}
+              <div
+                className="w-full min-h-screen flex items-center relative justify-center"
+                style={{
+                  backgroundImage: `url(${background})`,
+                  backgroundSize: "cover",
+                  backgroundPosition: "center",
+                }}
               >
                 <h1 className="text-5xl font-bold text-center text-white">
                   Select a chat to start messaging
