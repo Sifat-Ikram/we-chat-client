@@ -1,8 +1,17 @@
-# React + Vite
+<ul>
+  <li>
+    Website Name: WeChat
+  </li>
+  <li>
+    Live link: https://task-master-96.web.app/
+  </li>
+</ul>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a replica of Telegram. It is a chat application that displays contacts and chat history with a responsive design suitable for different devices.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+<ul>
+  <li><span style="text-weight: 600">Contact List:</span></li>
+  <li><span style="text-weight: 600">Contact List:</span></li>
+  <li><span style="text-weight: 600">Contact List:</span></li>
+</ul>
