@@ -3,7 +3,7 @@
     Website Name: WeChat
   </li>
   <li>
-    Live link: https://task-master-96.web.app/
+    Live link: https://we-chat-96.web.app/
   </li>
 </ul>
 
